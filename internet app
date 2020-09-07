@@ -1,0 +1,6 @@
+name = 'Jimmy' 
+place = 'new york'
+if_True 
+input('Hi 👋'  + name)
+input( 'Wow 😲  + place)
+print('Thank you')
